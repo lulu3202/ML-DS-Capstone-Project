@@ -42,4 +42,3 @@ is_hazardous: A categorical label indicating whether the object is classified as
 ## Evaluation Metric Results
 	- I ran multiple classification algorithms, out of which Random Forest Classification was the best 
 	- Accuracy is 0.91 - - This indicates that the model correctly classified 91% of the instances in the test dataset
-![image](https://github.com/user-attachments/assets/d32120a5-688d-40f6-861e-effdc7e49fed)
